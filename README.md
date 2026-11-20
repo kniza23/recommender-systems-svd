@@ -1,4 +1,4 @@
-# Movie Recommender Systems: User-Based Collaborative Filtering (k-NN) & Matrix Factorization (SVD)
+# Movie Recommender Systems: User-Based Collaborative Filtering   (k-NN) & Matrix Factorization (SVD)
 
 This project implements, compares, and evaluates two distinct paradigms of **Recommender Systems** using the **MovieLens 100k Dataset** (`ml-100k`). It covers both **Memory-Based Collaborative Filtering (k-NN)**—built from scratch and benchmarked with `scikit-surprise`—and **Model-Based Matrix Factorization (SVD)**.
 
